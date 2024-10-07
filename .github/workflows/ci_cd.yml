@@ -23,7 +23,7 @@ jobs:
 
     - name: Install frontend dependencies
       run: |
-        cd client
+        cd client1
         npm install
 
     # - name: Run tests
